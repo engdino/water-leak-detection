@@ -62,3 +62,5 @@ data['values'][0]['effectiveDate']
 1577854800000 ms is Wed Jan 01 2020 00:00:00
 
 Data, Unit 2, Jan 2020 - Dec 2020
+
+![Jan_Dec_2020_1hr](https://user-images.githubusercontent.com/79116151/111857475-129db080-8908-11eb-8faa-5ac475731a52.png)
